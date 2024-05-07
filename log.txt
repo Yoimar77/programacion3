@@ -1,0 +1,11 @@
+2024-05-07 01:53:44 - Se registró a un nuevo publicador: revista
+2024-05-07 01:53:45 - Se creó la carpeta para publicadores: revista semana
+2024-05-07 01:55:27 - Se registró a un nuevo publicador: revista
+2024-05-07 01:55:28 - Se registró a un nuevo publicador: revista
+2024-05-07 01:55:29 - Se registró a un nuevo publicador: revista
+2024-05-07 02:09:07 - Se registró a un nuevo cliente: yoimar
+2024-05-07 02:09:09 - Se creó la carpeta para clientes: yoimar vargas restrepo
+2024-05-07 02:11:25 - Se registró a un nuevo publicador: juan
+2024-05-07 02:11:28 - Se creó la carpeta para publicadores: juan yuca
+2024-05-07 02:15:52 - Se registró a un nuevo publicador: hhh
+2024-05-07 02:15:53 - Se creó la carpeta para publicadores: hhh hh hh
